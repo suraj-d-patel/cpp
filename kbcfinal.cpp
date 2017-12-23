@@ -1025,7 +1025,7 @@ void q14(){
 	cout<<"\n Your last question for Rs 1,00,00,000 ! is\n";
 	cout<<"\n 14). The author of this Game is ?\n";
 	cout<<"\n 1). Amitabh Bachchan "<<"\t"<<" 2). Shahrukh Khan \n";
-	cout<<"\n 3). Akshay Tikoo "<<"\t"<<" 4). Sony Channel \n";
+	cout<<"\n 3). Suraj Patel "<<"\t"<<" 4). Sony Channel \n";
 
 
 
