@@ -1037,7 +1037,7 @@ void q14(){
 		cin>>inputlife;
 		if(inputlife=='a'){  //5050
 		    cout<<"\n Your reducd options are ---\n";
-	cout<<"\n 3). Akshay Tikoo "<<"\t"<<" 4). Sony Channel \n";
+	cout<<"\n 3). Suraj Patel "<<"\t"<<" 4). Sony Channel \n";
       cout<<"\n Enter your choice--\n";
       goto correct;
       }
